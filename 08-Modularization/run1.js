@@ -8,6 +8,4 @@
 
 var monkeys = "STUFF is here";
 
-module.export = {
-    monkeys: monkeys
-}
+module.exports = monkeys;
