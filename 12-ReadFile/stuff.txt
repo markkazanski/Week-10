@@ -1,0 +1,5 @@
+foo
+bar
+monkeys
+apples
+split, by, commmas, text
