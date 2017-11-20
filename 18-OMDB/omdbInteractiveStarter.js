@@ -15,7 +15,7 @@ var request = require("request");
 
 //process.argv.slice(2, process.argv.length).join(" ");
 
-var movieName = process.argv.slice(2, process.argv.length).join(" ");
+var movieName = process.argv.slice(2, process.argv.length).join("+");
 // ...
 
 
