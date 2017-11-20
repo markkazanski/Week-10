@@ -1,0 +1,2 @@
+deposit 10
+withdraw 5
